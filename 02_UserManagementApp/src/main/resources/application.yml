@@ -1,0 +1,42 @@
+server:
+  port: 9090
+spring:
+  datasource:
+    username: sa
+    password: null
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver
+  jpa:
+    defer-datasource-initialization: true
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+    hibernate:
+      ddl-auto: update
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: garoderadhey@gmail.com
+    password: cfkezeeumqiwrflk
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+          auth: true
+app:
+  messages:
+    welcomeMsg: Welcome To User Management System..!!
+    greetMsg: Good Morning...!!
+    accLock: Account is Locked
+    inVldCrdntls: Invalide Credentials !!
+    userRegSucc: Please Check your Email for Unlock your Account
+    userRegFaild: Faild To Register
+    emailSubject: Unlock User Account
+    emailBody: body.txt
+    unlockSuccess: Login Successful
+    frgtPwdBody: forgotPwdBody.txt
+    checkUrEmailForPassword: Check your Email For Password
+    frgtPwdEmailSubject: Forgot Password Response
+    

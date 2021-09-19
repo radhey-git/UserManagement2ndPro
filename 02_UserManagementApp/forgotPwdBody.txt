@@ -1,0 +1,14 @@
+Hello  {FNAME} {LNAME} :
+<br/>
+
+
+Your Email ID is :{EMAIL}<br/>
+<br/>
+
+Password : {PWD}<br/>
+<br/>
+
+<br/>
+
+Thanks & Regards,<br/>
+IT Company.<br/>

@@ -1,0 +1,17 @@
+Hello  {FNAME} {LNAME} :
+<br/>
+
+Welcome to IT Company family, Your registration is almost completed.
+Please use below details to unlock your account.<br/>
+<br/>
+
+Temporary Password : {PWD}<br/>
+<br/>
+
+<a href='http://localhost:9090/unlockController/unlockAcc?email={EMAIL}'>
+Click Here To Unlock Your Account</a> <br/>
+<br/>
+
+Thanks & Regards,<br/>
+IT Company.<br/>
+

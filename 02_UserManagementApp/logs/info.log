@@ -1,0 +1,6 @@
+2021-09-13 15:14:44 [restartedMain] INFO  com.usermanagement.Application -
+				Starting Application using Java 1.8.0_251 on User-PC with PID 6368 (G:\Other\Workspace\Second_Miniproject\02_UserManagementApp\target\classes started by User in G:\Other\Workspace\Second_Miniproject\02_UserManagementApp)
+2021-09-13 15:14:44 [restartedMain] INFO  com.usermanagement.Application -
+				No active profile set, falling back to default profiles: default
+2021-09-13 15:14:59 [restartedMain] INFO  com.usermanagement.Application -
+				Started Application in 15.642 seconds (JVM running for 17.326)

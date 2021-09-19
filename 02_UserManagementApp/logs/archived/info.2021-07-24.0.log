@@ -1,0 +1,12 @@
+2021-07-24 16:57:55 [main] INFO  com.usermanagement.ApplicationTests -
+				Starting ApplicationTests using Java 1.8.0_251 on User-PC with PID 2740 (started by User in G:\Other\Workspace\Second_Miniproject\02_UserManagementApp)
+2021-07-24 16:57:55 [main] INFO  com.usermanagement.ApplicationTests -
+				No active profile set, falling back to default profiles: default
+2021-07-24 16:58:08 [main] INFO  com.usermanagement.ApplicationTests -
+				Started ApplicationTests in 14.056 seconds (JVM running for 16.342)
+2021-07-24 18:10:46 [main] INFO  com.usermanagement.ApplicationTests -
+				Starting ApplicationTests using Java 1.8.0_251 on User-PC with PID 5032 (started by User in G:\Other\Workspace\Second_Miniproject\02_UserManagementApp)
+2021-07-24 18:10:46 [main] INFO  com.usermanagement.ApplicationTests -
+				No active profile set, falling back to default profiles: default
+2021-07-24 18:10:57 [main] INFO  com.usermanagement.ApplicationTests -
+				Started ApplicationTests in 11.617 seconds (JVM running for 13.998)
